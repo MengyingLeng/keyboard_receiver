@@ -12,7 +12,7 @@ other keys - control the radius of circle
 
 ## how to use:
 
-catkin_make the file first.
+First catkin_make.
 
 ### Terminal 1:
 roscore
