@@ -1,9 +1,14 @@
 # keyboard_receiver
 0-9 - control the moving speed of turtle
+
 space - stop
+
 w - moving forward
+
 d - moving backward
+
 other keys - control the radius of circle
+
 
 how to use:
 
